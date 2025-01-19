@@ -1,0 +1,29 @@
+[
+   {
+      "question": "Given the length of the transverse axis, is 18 units, the equation of rectangular hyperbola is",
+      "qid": 1,
+      "option_a": "$$ x^2 - y^2 = 18 $$",
+      "option_b": "$$ x^2 - y^2 = 81 $$",
+      "option_c": "$$ x^2 - y^2 = 9 $$",
+      "option_d": "$$ x^2 - y^2 = 3 $$",
+      "correct_option": "b"
+   },
+   {
+      "question": "The foci of the rectangular hyperbola whose equation is, x<sup>2</sup>-y<sup>2</sup> = 25, is",
+      "qid": 2,
+      "option_a": "$$ \\left(\\pm\\frac{\\sqrt{2}}{5}, 0\\right) $$",
+      "option_b": "$$ \\left(\\pm\\frac{5}{\\sqrt{2}}, 0\\right) $$",
+      "option_c": "$$ \\left(\\pm5\\sqrt{2}, 0\\right) $$",
+      "option_d": "$$ \\left(\\pm5, 0\\right) $$",
+      "correct_option": "c"
+   },
+   {
+      "question": "The length of transverse axis of the rectangular hyperbola with equation, x<sup>2</sup>-y<sup>2</sup> = 9, is",
+      "qid": 3,
+      "option_a": "2 units",
+      "option_b": "3 units",
+      "option_c": "1.5 units",
+      "option_d": "6 units",
+      "correct_option": "d"
+   }
+]

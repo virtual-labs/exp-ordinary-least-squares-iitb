@@ -1,0 +1,29 @@
+[
+   {
+      "question": "The method of least square estimation involves:",
+      "qid": 1,
+      "option_a": "minimizing the sum of errors",
+      "option_b": "minimizing the absolute sum of errors",
+      "option_c": "minimizing the sum of squares of errors",
+      "option_d": "none of the above",
+      "correct_option": "c"
+   },
+   {
+      "question": "The error term means:",
+      "qid": 2,
+      "option_a": "it is the difference between actual value and predicted value",
+      "option_b": "it is the difference between modal observation and predicted value",
+      "option_c": "difference between average value and the predicted value",
+      "option_d": "none of the above",
+      "correct_option": "a"
+   },
+   {
+      "question": "The assumption for ordinary least square is that:",
+      "qid": 3,
+      "option_a": "there are no measurement error associated with explainatory variable",
+      "option_b": "there are no measurement error associated with regressor variable",
+      "option_c": "",
+      "option_d": "",
+      "correct_option": "a"
+   }
+]
